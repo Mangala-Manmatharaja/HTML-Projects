@@ -38,6 +38,4 @@ We welcome your HTML projects! Here's how to add yours:
 - Prefix with category if needed (e.g., `animation-ripple-effect`)
 - No spaces or special characters except hyphens
 
-## 🔍 Finding Projects
 
-Use GitHub's search with these tags:
