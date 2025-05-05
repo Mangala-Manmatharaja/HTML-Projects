@@ -42,7 +42,7 @@ We welcome your HTML projects! Here's how to add yours:
 
 ## 📜 License
 
-This collection is [MIT Licensed](/LICENSE). Feel free to use any code as reference.
+This collection is [MIT Licensed]. Feel free to use any code as reference.
 
 ---
 
