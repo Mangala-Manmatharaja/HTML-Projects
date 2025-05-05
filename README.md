@@ -39,3 +39,14 @@ We welcome your HTML projects! Here's how to add yours:
 - No spaces or special characters except hyphens
 
 
+
+## 📜 License
+
+This collection is [MIT Licensed](/LICENSE). Feel free to use any code as reference.
+
+---
+
+💡 **Tip:** Looking for something specific? Create an issue with your request!
+
+[![Open in GitHub Codespaces](https://img.shields.io/badge/Open%20in-Codespaces-blue?logo=github)](https://github.com/codespaces)
+[![PRs Welcome](https://img.shields.io/badge/PRs-welcome-brightgreen.svg)](http://makeapullrequest.com)
